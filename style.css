@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Roboto", sans-serif;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  height: 100vh;
+}
+
+#auto {
+  width: 224px;
+  text-align: center;
+}
+
+.nwl {
+  margin: 100px 0 0 0;
+}
+
+.red {
+  border: 3px solid crimson;
+}/*# sourceMappingURL=style.css.map */
